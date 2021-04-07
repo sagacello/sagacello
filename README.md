@@ -2,8 +2,6 @@
 <h3 align="center">Sempre amei tecnologia e inovação e estou muito entusiasmado com essa nova jornada de aprendizados. Nunca me senti tão feliz em aprender algo novo como agora, e a cada dia que passa a realização de pequenas conquistas vai se transformando em um todo que molda meu futuro</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagacello" alt="sagacello" /></a> </p>
-
 - 🔭 Projeto mais recente [App de receitas](https://sagacello.github.io/App-recipes/)
 
 - 🌱 Atualmente estudando **NodeJs fluxo assíncronos**
