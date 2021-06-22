@@ -2,9 +2,9 @@
 <h3 align="center">Sempre amei tecnologia e inovação e estou muito entusiasmado com essa nova jornada de aprendizados. Nunca me senti tão feliz em aprender algo novo como agora, e a cada dia que passa a realização de pequenas conquistas vai se transformando em um todo que molda meu futuro.</h3>
 
 
-- 🔭 Projeto mais recente [App de receitas](https://sagacello.github.io/App-recipes/)
+- 🔭 Projeto mais recente [App de receitas](https://sagacello.github.io/Portfolio/)
 
-- 🌱 Atualmente estudando **NodeJs fluxo assíncronos**
+- 🌱 Atualmente estudando **Arquitetura de Computadores e Redes**
 
 - 📫 Como me contatar **sagacello@gmail.com ou sagacello@hotmail.com**
 
