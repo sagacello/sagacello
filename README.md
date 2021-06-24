@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Marcelo Ivan dos Santos Viola</h1>
+<h1 align="center">Olá 👋, eu sou o Marcelo Ivan dos Santos Viola</h1>
 <h3 align="center">Sempre amei tecnologia e inovação e estou muito entusiasmado com essa nova jornada de aprendizados. Nunca me senti tão feliz em aprender algo novo como agora, e a cada dia que passa a realização de pequenas conquistas vai se transformando em um todo que molda meu futuro.</h3>
 
 
